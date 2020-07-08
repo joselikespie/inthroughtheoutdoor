@@ -9,25 +9,50 @@
    {
       "name" : "The Beatles autographed White Album",
       "SKU" :  "DC0424",
-      "whenWhere" : "George Harrison and Paul McCartney - EMI July 1969  John Lennon - Outside of the Copacabana October 1976 Ringo Starr - Today Show Rockefeller Center 2001"
+      "whenWhere" : "George Harrison and Paul McCartney - EMI July 1969 /r John Lennon - Outside of the Copacabana October 1976 Ringo Starr - Today Show Rockefeller Center 2001"
 
    },
    {
       "name" : " Pink Floyd The Wall autographed Album",
       "SKU" :  "DANCO0074",
-      "whenWhere" : "David Gilmour, Nick Mason, and Richard Wright - June 22, 1988 in Versailles   Roger Waters -  July 21, 1990 Live in Berlin"
+      "whenWhere" : "David Gilmour, Nick Mason, and Richard Wright - June 22, 1988 in Versailles     Roger Waters -  July 21, 1990 Live in Berlin"
 
    },
    {
       "name" : "Led Zeppelin II autographed Album",
       "SKU" :  "NCO11419",
       "whenWhere" : "Jimmy Page, Robert Plant, and John Paul Jones - Led Zeppelin: Celebration Day  October 9, 2012 at Ziegfeld Theatre"
-   }, 
+   },
    {
       "name" : "Pink Floyd Dark Side of the Moon",
       "SKU" :  "DC1461",
       "whenWhere" : "Richard Wright, Roger Waters, David Gilmour, and Nick Mason - May 10, 2007 at the Syd Barrett Tribute Concert"
-   } 
+   },
+   {
+      "name" : " Los Angeles Lakers Legends autographed poster",
+      "SKU" :  "TONCO7569",
+      "whenWhere" : "Kareem Abdul-Jabbar - Staples Center on November 16, 2012 Shaquille O Neal - Staples Center on March 24, 2017 Kobe Bryant - Staples Center on April 13, 2016  Magic Johnson - Staples Center on January 9, 2018  Phil Jackson - Staples Center on March 12, 2015 Pat Riley - June 5, 2017 Outside Conga Room"
+   },
+   {
+      "name" : "Profiles in Courage John F Kennedy autographed Book",
+      "SKU" :  "CO8053",
+      "whenWhere" : "April 14, 1961, in Washington, DC"
+   },
+   {
+      "name" : "Elvis Presley Acoustic Guitar",
+      "SKU" :  "DANCO1852",
+      "whenWhere" : "Elvis Presley - December 31, 1975 at Pontiac Michigan"
+   },
+   {
+      "name" : "U2 Guitar",
+      "SKU" :  "DANCO1851",
+      "whenWhere" : "Bono, The Edge, Adam Clayton, and Larry Mullen Jr. - May 7, 2018 in San Jose, CA"
+   },
+   {
+      "name" : "Chris Cornell and Chester Bennington Photo ",
+      "SKU" :  "DANCO2128",
+      "whenWhere" : "Chris Cornell - May 13, 2014 at LAX  and Chester Bennington - June 18, 2014 at Guitar Center Rock Walk"
+   }
 ]
 
 }
