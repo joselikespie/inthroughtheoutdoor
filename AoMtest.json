@@ -74,7 +74,18 @@
    {
       "name" : "Batman TV Theme Album",
       "SKU" :  "DC1522",
-      "whenWhere" : "Frank Gorshin - Celebrity Signings Autograph Show                              Madge Blake - October 1967 Desilu Studios                                   Yvonne Craig - November 2005 Beverly Garland          Alan Napier - October 1967 Desilu Studios                 Adam West - Dallas Comic Con 2015           Neil Hamilton - September 1967 Desilu Studios             Stafford Repp - September 1967 Desilu Studios         Burt Ward -Dallas Comic Con 2015                Cesar Romero - 1988 American Comedy Awards              Lee Meriwether - Hollywood Collectors Show 2004          Burgess Meredith - June 19, 1989 Mann Bruin Theater"
+      "whenWhere" : {"Frank Gorshin - Celebrity Signings Autograph Show",                    
+      "whenWhere1" : "   Madge Blake - October 1967 Desilu Studios   ",
+      "whenWhere2" : "   Yvonne Craig - November 2005 Beverly Garland",
+      "whenWhere3" : "   Alan Napier - October 1967 Desilu Studios",
+      "whenWhere4" : "   Adam West - Dallas Comic Con 2015    ",
+      "whenWhere5" : "   Neil Hamilton - September 1967 Desilu Studios    ",
+      "whenWhere6" : "   Stafford Repp - September 1967 Desilu Studios      ",
+      "whenWhere7" : "   Adam West - Dallas Comic Con 2015    ",
+      "whenWhere8" : "   Cesar Romero - 1988 American Comedy Awards   ",
+      "whenWhere9" : "   Lee Meriwether - Hollywood Collectors Show 2004    ",
+      "whenWhere10" : "  Burgess Meredith - June 19, 1989 Mann Bruin Theater"        
+                    }
    },
          {
       "name" : "Prince Guitar",
