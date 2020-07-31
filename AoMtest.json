@@ -1,97 +1,93 @@
-
 {
-   "memo" : [
-   {
-      "name" : " Hard Rock London autographed Jacket",
-      "SKU" :  "DC1118",
-      "whenWhere" : "Slash, Stevie Ray Vaughan, Kurt Cobain, Carlos Santana, Jerry Garcia, Eric Clapton, Eddie Van Halen, Dave Mason, Randy Meisner, David Gilmour, Robert Plant, Steve Miller, Bono, Pete Townshend, Kirk Hammett, Angus Young, Alex Lifeson, Bruce Springsteen, Billy Gibbons, Neil Young, and John Mayer"
-   },
-   {
-      "name" : "The Beatles autographed White Album",
-      "SKU" :  "DC0424",
-      "whenWhere" : "George Harrison and Paul McCartney - EMI July 1969 /r John Lennon - Outside of the Copacabana October 1976 Ringo Starr - Today Show Rockefeller Center 2001"
+	"memo": [{
+			"name": " Hard Rock London autographed Jacket",
+			"SKU": "DC1118",
+			"whenWhere": "Slash, Stevie Ray Vaughan, Kurt Cobain, Carlos Santana, Jerry Garcia, Eric Clapton, Eddie Van Halen, Dave Mason, Randy Meisner, David Gilmour, Robert Plant, Steve Miller, Bono, Pete Townshend, Kirk Hammett, Angus Young, Alex Lifeson, Bruce Springsteen, Billy Gibbons, Neil Young, and John Mayer"
+		},
+		{
+			"name": "The Beatles autographed White Album",
+			"SKU": "DC0424",
+			"whenWhere": "George Harrison and Paul McCartney - EMI July 1969 /r John Lennon - Outside of the Copacabana October 1976 Ringo Starr - Today Show Rockefeller Center 2001"
 
-   },
-   {
-      "name" : " Pink Floyd The Wall autographed Album",
-      "SKU" :  "DANCO0074",
-      "whenWhere" : "David Gilmour, Nick Mason, and Richard Wright - June 22, 1988 in Versailles     Roger Waters -  July 21, 1990 Live in Berlin"
+		},
+		{
+			"name": " Pink Floyd The Wall autographed Album",
+			"SKU": "DANCO0074",
+			"whenWhere": "David Gilmour, Nick Mason, and Richard Wright - June 22, 1988 in Versailles     Roger Waters -  July 21, 1990 Live in Berlin"
 
-   },
-   {
-      "name" : "Led Zeppelin II autographed Album",
-      "SKU" :  "NCO11419",
-      "whenWhere" : "Jimmy Page, Robert Plant, and John Paul Jones - Led Zeppelin: Celebration Day "
-                     " October 9, 2012 at Ziegfeld Theatre"
-                     
-                   
-   },
-   {
-      "name" : "Pink Floyd Dark Side of the Moon",
-      "SKU" :  "DC1461",
-      "whenWhere" : "Richard Wright, Roger Waters, David Gilmour, and Nick Mason - May 10, 2007 at the Syd Barrett Tribute Concert"
-   },
-   {
-      "name" : " Los Angeles Lakers Legends autographed poster",
-      "SKU" :  "TONCO7569",
-      "whenWhere" : "Kareem Abdul-Jabbar - Staples Center on November 16, 2012 Shaquille O Neal - Staples Center on March 24, 2017 Kobe Bryant - Staples Center on April 13, 2016  Magic Johnson - Staples Center on January 9, 2018  Phil Jackson - Staples Center on March 12, 2015 Pat Riley - June 5, 2017 Outside Conga Room"
-   },
-   {
-      "name" : "Profiles in Courage John F Kennedy autographed Book",
-      "SKU" :  "CO8053",
-      "whenWhere" : "April 14, 1961, in Washington, DC"
-   },
-   {
-      "name" : "Elvis Presley Acoustic Guitar",
-      "SKU" :  "DANCO1852",
-      "whenWhere" : "Elvis Presley - December 31, 1975 at Pontiac Michigan"
-   },
-   {
-      "name" : "U2 Guitar",
-      "SKU" :  "DANCO1851",
-      "whenWhere" : "Bono, The Edge, Adam Clayton, and Larry Mullen Jr. - May 7, 2018 in San Jose, CA"
-   },
-   {
-      "name" : "Chris Cornell and Chester Bennington Photo ",
-      "SKU" :  "DANCO2128",
-      "whenWhere" : "Chris Cornell - May 13, 2014 at LAX  and Chester Bennington - June 18, 2014 at Guitar Center Rock Walk"
-   },
-   {
-      "name" : "Concert for George Poster",
-      "SKU" :  "DANCO1346",
-      "whenWhere" : "Ravi Shankar - London June 2008                        Ringo Starr - London September 15, 2006                                           Paul McCartney - London September 15, 2016                                Eric Clapton - Royal Albert Hall May 14, 2015                                     Jeff Lynne - BBC March 7, 2014                                                Anoushka Shankar - London June 2008 "
-   },
-   {
-      "name" : "Concert for George Poster",
-      "SKU" :  "DANCO1308",
-      "whenWhere" : "Ravi Shankar - London June 2008                        Ringo Starr - London September 15, 2006                                           Paul McCartney - London September 15, 2016                                Eric Clapton - Royal Albert Hall May 14, 2015                                     Jeff Lynne - BBC March 7, 2014                                                Anoushka Shankar - London June 2008 "   
-   },
-   {
-      "name" : "Jaws Poster",
-      "SKU" :  "DANCO1927",
-      "whenWhere" : "Richard Dreyfuss - April 29, 2006 Beverly Hotel        Susan Backlinie - March 2013 Mad Monster Party                Carl Gottlieb - Jaws Fest 2005                    Lorraine Gary - April 26, 2011 Beverly Hills Hotel             Roy Scheider - May 11, 2006 on Set of Dark Honeymoon                  John Williams - Premiere of Lincoln Grauman's Chinese Theatre on November 8, 2012"
-   },
-   {
-      "name" : "Batman TV Theme Album",
-      "SKU" :  "DC1522",
-      "whenWhere" : {"Frank Gorshin - Celebrity Signings Autograph Show",                    
-      "whenWhere1" : "   Madge Blake - October 1967 Desilu Studios   ",
-      "whenWhere2" : "   Yvonne Craig - November 2005 Beverly Garland",
-      "whenWhere3" : "   Alan Napier - October 1967 Desilu Studios",
-      "whenWhere4" : "   Adam West - Dallas Comic Con 2015    ",
-      "whenWhere5" : "   Neil Hamilton - September 1967 Desilu Studios    ",
-      "whenWhere6" : "   Stafford Repp - September 1967 Desilu Studios      ",
-      "whenWhere7" : "   Adam West - Dallas Comic Con 2015    ",
-      "whenWhere8" : "   Cesar Romero - 1988 American Comedy Awards   ",
-      "whenWhere9" : "   Lee Meriwether - Hollywood Collectors Show 2004    ",
-      "whenWhere10" : "  Burgess Meredith - June 19, 1989 Mann Bruin Theater"        
-                    }
-   },
-         {
-      "name" : "Prince Guitar",
-      "SKU" :  "TBOJP001",
-      "whenWhere" : "Prince signed in Beverly Hills, CA. on February of 2016"
-   }
-]
+		},
+		{
+			"name": "Led Zeppelin II autographed Album",
+			"SKU": "NCO11419",
+			"whenWhere": "Jimmy Page, Robert Plant, and John Paul Jones - Led Zeppelin: Celebration Day  October 9, 2012 at Ziegfeld Theatre"
+		},
+		{
+			"name": "Pink Floyd Dark Side of the Moon",
+			"SKU": "DC1461",
+			"whenWhere": "Richard Wright, Roger Waters, David Gilmour, and Nick Mason - May 10, 2007 at the Syd Barrett Tribute Concert"
+		},
+		{
+			"name": " Los Angeles Lakers Legends autographed poster",
+			"SKU": "TONCO7569",
+			"whenWhere": "Kareem Abdul-Jabbar - Staples Center on November 16, 2012 Shaquille O Neal - Staples Center on March 24, 2017 Kobe Bryant - Staples Center on April 13, 2016  Magic Johnson - Staples Center on January 9, 2018  Phil Jackson - Staples Center on March 12, 2015 Pat Riley - June 5, 2017 Outside Conga Room"
+		},
+		{
+			"name": "Profiles in Courage John F Kennedy autographed Book",
+			"SKU": "CO8053",
+			"whenWhere": "April 14, 1961, in Washington, DC"
+		},
+		{
+			"name": "Elvis Presley Acoustic Guitar",
+			"SKU": "DANCO1852",
+			"whenWhere": "Elvis Presley - December 31, 1975 at Pontiac Michigan"
+		},
+		{
+			"name": "U2 Guitar",
+			"SKU": "DANCO1851",
+			"whenWhere": "Bono, The Edge, Adam Clayton, and Larry Mullen Jr. - May 7, 2018 in San Jose, CA"
+		},
+		{
+			"name": "Chris Cornell and Chester Bennington Photo ",
+			"SKU": "DANCO2128",
+			"whenWhere": "Chris Cornell - May 13, 2014 at LAX  and Chester Bennington - June 18, 2014 at Guitar Center Rock Walk"
+		},
+		{
+			"name": "Concert for George Poster",
+			"SKU": "DANCO1346",
+			"whenWhere": "Ravi Shankar - London June 2008                        Ringo Starr - London September 15, 2006                                           Paul McCartney - London September 15, 2016                                Eric Clapton - Royal Albert Hall May 14, 2015                                     Jeff Lynne - BBC March 7, 2014                                                Anoushka Shankar - London June 2008 "
+		},
+		{
+			"name": "Concert for George Poster",
+			"SKU": "DANCO1308",
+			"whenWhere": "Ravi Shankar - London June 2008                        Ringo Starr - London September 15, 2006                                           Paul McCartney - London September 15, 2016                                Eric Clapton - Royal Albert Hall May 14, 2015                                     Jeff Lynne - BBC March 7, 2014                                                Anoushka Shankar - London June 2008 "
+		},
+		{
+			"name": "Jaws Poster",
+			"SKU": "DANCO1927",
+			"whenWhere": "Richard Dreyfuss - April 29, 2006 Beverly Hotel        Susan Backlinie - March 2013 Mad Monster Party                Carl Gottlieb - Jaws Fest 2005                    Lorraine Gary - April 26, 2011 Beverly Hills Hotel             Roy Scheider - May 11, 2006 on Set of Dark Honeymoon                  John Williams - Premiere of Lincoln Grauman's Chinese Theatre on November 8, 2012"
+		},
+		{
+			"name": "Batman TV Theme Album",
+			"SKU": "DC1522",
+			"whenWhere": {
+				"whenWhere1": "Frank Gorshin - Celebrity Signings Autograph Show",
+				"whenWhere2": "   Madge Blake - October 1967 Desilu Studios   ",
+				"whenWhere3": "   Yvonne Craig - November 2005 Beverly Garland",
+				"whenWhere4": "   Alan Napier - October 1967 Desilu Studios",
+				"whenWhere5": "   Adam West - Dallas Comic Con 2015    ",
+				"whenWhere6": "   Neil Hamilton - September 1967 Desilu Studios    ",
+				"whenWhere7": "   Stafford Repp - September 1967 Desilu Studios      ",
+				"whenWhere8": "   Adam West - Dallas Comic Con 2015    ",
+				"whenWhere9": "   Cesar Romero - 1988 American Comedy Awards   ",
+				"whenWhere10": "   Lee Meriwether - Hollywood Collectors Show 2004    ",
+				"whenWhere11": "  Burgess Meredith - June 19, 1989 Mann Bruin Theater"
+			}
+		},
+		{
+			"name": "Prince Guitar",
+			"SKU": "TBOJP001",
+			"whenWhere": "Prince signed in Beverly Hills, CA. on February of 2016"
+		}
+	]
 
 }
