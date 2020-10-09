@@ -92,7 +92,22 @@
 			"name": "Tupac Shakur and Notorious BIG Guitar",
 			"SKU": "DC1107",
 			"whenWhere": " Tupac and Notorious BIG on November 4, 1994 at Roseland Ballroom "
-		}
+		},
+		{
+			"name": "I Love Lucy Signature Cut",
+			"SKU": "NCO3829",
+			"whenWhere": "Lucy Ball, Desi Arnaz, Vivian Vance, William Frawley on May 5, 1954 "
+		},
+		{
+			"name": "Lucille Ball Photo",
+			"SKU": "DC0663",
+			"whenWhere": "Lucy Ball at The Share Boomtown Annual Charity Event 1981 "
+		},
+		{
+			"name": "Lucille Ball Photo",
+			"SKU": "NCO5962",
+			"whenWhere": "Lucy Ball on February 19, 1983 at Desert Museum in New York City "
+		},
 	]
 
 }
