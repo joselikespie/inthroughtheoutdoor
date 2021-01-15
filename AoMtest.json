@@ -167,7 +167,12 @@
 			"name": "Easyrider Helmet",
 			"SKU": "NCO10514",
 			"whenWhere": "Peter Fonda - August 10, 2002 Beverly Hilton Hotel  ----  Jack Nicholson and Dennis Hopper - CineVegas 2004"		 
-		}
+		},
+		{
+			"name": "The Beatles White Album",
+			"SKU": "DANCO1986",
+			"whenWhere": "5 Step Authentication Process"		 
+		},
 	]
 
 }
