@@ -182,6 +182,16 @@
 			"name": "Michael Jordan Book",
 			"SKU": "NCO4815",
 			"whenWhere": "Intercontinental Hotel Chicago September 22, 2011"		 
+		},
+		{
+			"name": "Lone Survivor photo",
+			"SKU": "TT0051",
+			"whenWhere": " Mark Wahlberg, Eric Bana, Taylor Kitsch, Emile Hirsch, and Peter Berg on December 3, 2013 at Zeigfeld Theatre"		 
+		},
+		{
+			"name": "Jimi Hendrix Peace Sign Flag poster",
+			"SKU": "DANCO0316",
+			"whenWhere": "Englewood, California on April 25, 2970"		 
 		}
 
 	]
