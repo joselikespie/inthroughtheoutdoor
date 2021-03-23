@@ -192,8 +192,17 @@
 			"name": "Jimi Hendrix Peace Sign Flag poster",
 			"SKU": "DANCO0316",
 			"whenWhere": "Englewood, California on April 25, 1970"		 
+		},
+		{
+			"name": "John Lennon Imagine Poster",
+			"SKU": "DC0586",
+			"whenWhere": "John Lennon - 1975 New York Film Festival"		 
+		},
+		{
+			"name": "John Lennon Imagine Album",
+			"SKU": "DANCO1037",
+			"whenWhere": "John Lennon - Minskoff Theatre on January 1977"		 
 		}
-
 	]
 
 }
