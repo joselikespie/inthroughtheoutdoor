@@ -207,6 +207,26 @@
 			"name": "Madonna Photo",
 			"SKU": "NCO10854",
 			"whenWhere": "Madonna - Feb 27, 2011 at Vanity Fair Oscar Party"		 
+		},
+		{
+			"name": "Prince Guitar",
+			"SKU": "DANCO2608",
+			"whenWhere": "Prince signed May 19, 2013 in Las Vegas"		 
+		},
+		{
+			"name": "Guns N Roses Guitar",
+			"SKU": "DANCO1884",
+			"whenWhere": "Axl Rose, Slash, and Duff McKagan signed in Sacramento, California 2017   -----Steven Adler and Izzy Stradlin signed in Los Angeles, California"		 
+		},
+		{
+			"name": "Nirvana Nevermind Album",
+			"SKU": "DC1538",
+			"whenWhere": "David Grohl, Kurt Cobain, and Krist Novoselic signed October 3 ,1992 at Carver Gymnasium"		 
+		},
+		{
+			"name": "Napoleon Dynamite Vote For Pedro Shirt",
+			"SKU": "DANCO1931",
+			"whenWhere": "Efren Ramirez, Tina Majorino, Diedrich Bader, Jon Heder, Haylie Duff, Aaron Ruell, and John Gries signed at 2011 San Diego Comic-Con"		 
 		}
 	]
 
